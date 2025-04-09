@@ -2,7 +2,7 @@
 
 This is a basic iOS app built using **SwiftUI** that demonstrates **Face ID authentication** using Apple’s `LocalAuthentication` framework.
 
-## 🚀 Features
+##  Features
 
 - Simple user interface with a button to trigger Face ID
 - Uses system biometrics (Face ID or Touch ID) to authenticate the user
@@ -11,15 +11,10 @@ This is a basic iOS app built using **SwiftUI** that demonstrates **Face ID auth
   - 🟥 **Red** if authentication fails or is unavailable
 - Resets background to white after 5 seconds
 
----
-
-## 📱 Screenshots
-
-> (You can add a screenshot later)
 
 ---
 
-## 🧠 How the Code Works
+## How the Code Works
 
 ### `ContentView.swift`
 
