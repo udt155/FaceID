@@ -3,7 +3,7 @@
 //  faceID
 //
 //  Created by Urvish Trivedi on 4/9/25.
-//
+// New project on the Github
 
 import SwiftUI
 
